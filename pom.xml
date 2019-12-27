@@ -70,7 +70,7 @@
     <jaxb.version>2.2.12</jaxb.version><!-- 2.3.0 breaks due to https://github.com/mojohaus/animal-sniffer/issues/29 -->
 
     <!-- Sample Dependencies -->
-    <jsoup.version>1.7.3</jsoup.version>
+    <jsoup.version>1.8.3</jsoup.version>
 
     <!-- Test Dependencies -->
     <junit.version>4.12</junit.version>
